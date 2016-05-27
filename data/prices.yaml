@@ -1,0 +1,12 @@
+- 
+ product: iPhone 5 64GB
+ country: US
+ min_wage: 10
+ price: 690
+
+- 
+ product: iPhone 5 64GB
+ country: TR
+ min_wage: 6.1
+ price: 1200
+  
